@@ -25,14 +25,14 @@ main{
 }
 
 aside{
-    width: 30%;
+    width: 40;
     background: white;
-    border-radius: 25px;
+    border-radius: 20px;
     padding: 20px;
 }
 
 .conteudo{
-    width: 70%;
+    width: 80%;
 }
 
 article{
@@ -44,8 +44,8 @@ article{
 
 section{
     background: white;
-    border-radius: 25px;
-    padding: 20px;
+    border-radius: 20px;
+    padding: 40px;
 }
 
 h2{
